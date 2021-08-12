@@ -1,0 +1,17 @@
+D:\CYCLUS_BILLING\CS.DemoGraphQL\CS.Demo.Entity\bin\Debug\netcoreapp3.1\CS.Demo.Entity.deps.json
+D:\CYCLUS_BILLING\CS.DemoGraphQL\CS.Demo.Entity\bin\Debug\netcoreapp3.1\CS.Demo.Entity.dll
+D:\CYCLUS_BILLING\CS.DemoGraphQL\CS.Demo.Entity\bin\Debug\netcoreapp3.1\CS.Demo.Entity.pdb
+D:\CYCLUS_BILLING\CS.DemoGraphQL\CS.Demo.Entity\obj\Debug\netcoreapp3.1\CS.Demo.Entity.AssemblyInfoInputs.cache
+D:\CYCLUS_BILLING\CS.DemoGraphQL\CS.Demo.Entity\obj\Debug\netcoreapp3.1\CS.Demo.Entity.AssemblyInfo.cs
+D:\CYCLUS_BILLING\CS.DemoGraphQL\CS.Demo.Entity\obj\Debug\netcoreapp3.1\CS.Demo.Entity.csproj.CoreCompileInputs.cache
+D:\CYCLUS_BILLING\CS.DemoGraphQL\CS.Demo.Entity\obj\Debug\netcoreapp3.1\CS.Demo.Entity.dll
+D:\CYCLUS_BILLING\CS.DemoGraphQL\CS.Demo.Entity\obj\Debug\netcoreapp3.1\CS.Demo.Entity.pdb
+D:\CYCLUS_BILLING\GraphQLDemo\CS.DemoGraphQL\CS.Demo.Entity\bin\Debug\netcoreapp3.1\CS.Demo.Entity.deps.json
+D:\CYCLUS_BILLING\GraphQLDemo\CS.DemoGraphQL\CS.Demo.Entity\bin\Debug\netcoreapp3.1\CS.Demo.Entity.dll
+D:\CYCLUS_BILLING\GraphQLDemo\CS.DemoGraphQL\CS.Demo.Entity\bin\Debug\netcoreapp3.1\CS.Demo.Entity.pdb
+D:\CYCLUS_BILLING\GraphQLDemo\CS.DemoGraphQL\CS.Demo.Entity\obj\Debug\netcoreapp3.1\CS.Demo.Entity.csprojAssemblyReference.cache
+D:\CYCLUS_BILLING\GraphQLDemo\CS.DemoGraphQL\CS.Demo.Entity\obj\Debug\netcoreapp3.1\CS.Demo.Entity.AssemblyInfoInputs.cache
+D:\CYCLUS_BILLING\GraphQLDemo\CS.DemoGraphQL\CS.Demo.Entity\obj\Debug\netcoreapp3.1\CS.Demo.Entity.AssemblyInfo.cs
+D:\CYCLUS_BILLING\GraphQLDemo\CS.DemoGraphQL\CS.Demo.Entity\obj\Debug\netcoreapp3.1\CS.Demo.Entity.csproj.CoreCompileInputs.cache
+D:\CYCLUS_BILLING\GraphQLDemo\CS.DemoGraphQL\CS.Demo.Entity\obj\Debug\netcoreapp3.1\CS.Demo.Entity.dll
+D:\CYCLUS_BILLING\GraphQLDemo\CS.DemoGraphQL\CS.Demo.Entity\obj\Debug\netcoreapp3.1\CS.Demo.Entity.pdb

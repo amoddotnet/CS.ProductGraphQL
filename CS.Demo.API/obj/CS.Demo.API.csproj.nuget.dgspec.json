@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.API\\CS.Demo.API.csproj": {}
+  },
+  "projects": {
+    "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.API\\CS.Demo.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.API\\CS.Demo.API.csproj",
+        "projectName": "CS.Demo.API",
+        "projectPath": "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.API\\CS.Demo.API.csproj",
+        "packagesPath": "C:\\Users\\amod.kumar\\.nuget\\packages\\",
+        "outputPath": "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amod.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\10.201.205.51\\Cyclus\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://cs-nexus.hmg.local:8043/repository/nuget-vida-group/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.Services\\CS.Demo.Services.csproj": {
+                "projectPath": "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.Services\\CS.Demo.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "CS.Zyklus.Shared": {
+              "target": "Package",
+              "version": "[0.0.10, )"
+            },
+            "HotChocolate.AspNetCore": {
+              "target": "Package",
+              "version": "[10.5.3, )"
+            },
+            "HotChocolate.AspNetCore.Playground": {
+              "target": "Package",
+              "version": "[10.5.3, )"
+            },
+            "HotChocolate.AspNetCore.Subscriptions": {
+              "target": "Package",
+              "version": "[10.5.3, )"
+            },
+            "HotChocolate.Types": {
+              "target": "Package",
+              "version": "[10.5.3, )"
+            },
+            "HotChocolate.Types.Filters": {
+              "target": "Package",
+              "version": "[10.5.3, )"
+            },
+            "HotChocolate.Types.Sorting": {
+              "target": "Package",
+              "version": "[10.5.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.DTO\\CS.Demo.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.DTO\\CS.Demo.DTO.csproj",
+        "projectName": "CS.Demo.DTO",
+        "projectPath": "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.DTO\\CS.Demo.DTO.csproj",
+        "packagesPath": "C:\\Users\\amod.kumar\\.nuget\\packages\\",
+        "outputPath": "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amod.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\10.201.205.51\\Cyclus\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://cs-nexus.hmg.local:8043/repository/nuget-vida-group/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.Entity\\CS.Demo.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.Entity\\CS.Demo.Entity.csproj",
+        "projectName": "CS.Demo.Entity",
+        "projectPath": "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.Entity\\CS.Demo.Entity.csproj",
+        "packagesPath": "C:\\Users\\amod.kumar\\.nuget\\packages\\",
+        "outputPath": "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amod.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\10.201.205.51\\Cyclus\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://cs-nexus.hmg.local:8043/repository/nuget-vida-group/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.Services\\CS.Demo.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.Services\\CS.Demo.Services.csproj",
+        "projectName": "CS.Demo.Services",
+        "projectPath": "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.Services\\CS.Demo.Services.csproj",
+        "packagesPath": "C:\\Users\\amod.kumar\\.nuget\\packages\\",
+        "outputPath": "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amod.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\10.201.205.51\\Cyclus\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://cs-nexus.hmg.local:8043/repository/nuget-vida-group/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.DTO\\CS.Demo.DTO.csproj": {
+                "projectPath": "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.DTO\\CS.Demo.DTO.csproj"
+              },
+              "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.Entity\\CS.Demo.Entity.csproj": {
+                "projectPath": "D:\\CYCLUS_BILLING\\GraphQLDemo\\CS.DemoGraphQL\\CS.Demo.Entity\\CS.Demo.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
